@@ -7,7 +7,7 @@
   "homepage": "https://github.com/scratchfoundation/scratch-render-fonts#readme",
   "repository": {
     "type": "git",
-    "url": "https://git@github.com/scratchfoundation/scratch-render-fonts.git"
+    "url": "https://git@github.com/02engine/scratch-render-fonts.git"
   },
   "scripts": {
     "build": "npm run clean && webpack --progress --bail",
